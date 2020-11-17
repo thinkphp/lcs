@@ -38,11 +38,12 @@ end
 
 def main    
 
-	x = [0, 1, 7, 3, 5, 8]	
-    y = [0, 7, 5, 8, 1]
+	x = [0, 1, 7, 3, 5, 8, 55, 1]	
+    y = [0, 7, 5, 8, 44, 1, 71]
 
-    n = 5
-    m = 4
+    n = x.length() - 1
+    m = y.length() - 1    
+
     lcs = Array.new(n+1){Array.new(m+1,0)} 
 
     1.upto(n) { 
