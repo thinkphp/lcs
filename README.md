@@ -13,9 +13,9 @@
  
 ## in action
 
-   https://ideone.com/mrPYZW
+   https://ideone.com/mrPYZW ( gcc )
    
-   https://ideone.com/sfThv1
+   https://ideone.com/sfThv1 ( gcc ) 
    
    https://ideone.com/6EcvVr (c++)
    
