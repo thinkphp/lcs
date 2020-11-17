@@ -22,3 +22,5 @@
    https://ideone.com/kf02K5 (c++)
    
    https://ideone.com/SzQ7lP (ruby language)
+
+   https://ideone.com/ZlRcR7 (Golang)
